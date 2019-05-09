@@ -1,5 +1,5 @@
 # pascii-py
-Converts jpeg image to ascii art in terminal.
+Converts jpeg image to ascii art in the terminal with Pillow for image processing.
 
 Prompt/credit for idea: https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/
 
